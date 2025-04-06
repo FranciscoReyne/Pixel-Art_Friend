@@ -32,7 +32,7 @@ Necesitamos saber si se puede controlar **desde afuera de la app "idotmatrix"**.
    - **Services** y **Characteristics**
    - Si puedes ver características con `Write` o `Notify`, ¡es buena señal!
 
-> Si puedes, mándame una captura de eso o copia los UUIDs que veas (por ejemplo `0000ffe1-0000-1000-8000-00805f9b34fb`).
+> Copia los UUIDs que veas (por ejemplo `0000ffe1-0000-1000-8000-00805f9b34fb`).
 
 ---
 
