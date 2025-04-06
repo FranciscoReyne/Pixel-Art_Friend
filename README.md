@@ -17,6 +17,14 @@ Necesitamos saber si se puede controlar **desde afuera de la app "idotmatrix"**.
 
 #### En Android:
 1. Instala **[nRF Connect (Play Store)](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp)**
+
+
+<p align="center">
+  
+<img src="nrf connect for mobile.png" alt="nRF Connect" width="600"/>
+
+</p>
+
 2. Enciende tu pantalla
 3. Abre nRF Connect y escanea dispositivos
 4. Busca algo como `DM-XXXX`, `LED16`, `Pixoo`, `Display`, etc.
