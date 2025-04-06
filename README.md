@@ -1,5 +1,5 @@
 # Pixel Art Friend
-Una app para un pixel panel genérico con el que podremos interactuar.
+Una app para Pixel Panels genérico (típicamente de China), ¡con el que podremos interactuar!  ¡¡ :D !!
 
 --- 
 
