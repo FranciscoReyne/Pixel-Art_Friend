@@ -21,7 +21,7 @@ Necesitamos saber si se puede controlar **desde afuera de la app "idotmatrix"**.
 
 <p align="center">
   
-<img src="nrf connect for mobile.png" alt="nRF Connect" width="600"/>
+<img src="nrf connect for mobile.png" alt="nRF Connect" width="1278"/>
 
 </p>
 
